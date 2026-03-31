@@ -1,0 +1,5 @@
+flask
+transformers
+torch
+sentencepiece
+deep-translator>=1.11.4
