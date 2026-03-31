@@ -3,3 +3,4 @@ transformers
 torch
 sentencepiece
 deep-translator>=1.11.4
+gunicorn==21.2.0
