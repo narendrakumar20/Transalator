@@ -1,6 +1,6 @@
-flask
-transformers
-torch
+flask==3.0.0
+transformers==4.41.2
+torch --index-url https://download.pytorch.org/whl/cpu
 sentencepiece
 deep-translator>=1.11.4
 gunicorn==21.2.0
